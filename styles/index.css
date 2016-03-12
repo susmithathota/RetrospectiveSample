@@ -1,0 +1,22 @@
+#add{
+  width:40px;
+}
+#tile{
+  width:250px;
+  height:200px;
+  margin:20px;
+  box-shadow: 5px 5px 3px grey;
+}
+
+.textarea{
+  width:250px;
+  height:175px;
+  border:none;
+  outline:none;
+  resize:none;
+  background-color: transparent;
+}
+
+.search-container{
+  margin-left: 0;
+}
